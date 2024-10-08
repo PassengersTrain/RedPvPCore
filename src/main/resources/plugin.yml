@@ -1,0 +1,11 @@
+name: RedPvPCore
+version: '${project.version}'
+main: io.github.redpvpcore.RedPvPCore
+
+commands:
+  itse:
+    usage: /<command>
+
+  itenc:
+    usage: /<command>
+
