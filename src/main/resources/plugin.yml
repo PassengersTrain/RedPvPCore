@@ -1,0 +1,9 @@
+name: RedPvPCore
+version: '${project.version}'
+main: io.github.redpvpcore.RedPvPCore
+
+commands:
+  redcore:
+    usage: /<command>
+    permission: redpvpcore.command.itse
+
